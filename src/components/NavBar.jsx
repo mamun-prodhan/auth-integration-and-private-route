@@ -24,6 +24,9 @@ const NavBar = () => {
       <li>
         <Link to="/register">Register</Link>
       </li>
+      <li>
+        <Link to="/orders">Orders</Link>
+      </li>
     </>
   );
   return (
